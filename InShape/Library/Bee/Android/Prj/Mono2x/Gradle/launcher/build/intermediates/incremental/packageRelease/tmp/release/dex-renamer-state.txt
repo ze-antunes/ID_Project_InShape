@@ -1,0 +1,4 @@
+#Thu Nov 10 12:19:25 GMT 2022
+base.0=C\:\\Users\\kikap\\OneDrive\\Desktop\\HCI\\unity\\ID_Project_InShape\\InShape\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
